@@ -1,6 +1,9 @@
 # opensearch-net
 
-#### Opensearch.Client, Elasticsearch-Nest kütüphanesinin açık kaynak bir fork'udur.
+
+Opensearch.Client, Elasticsearch-Nest kütüphanesinin açık kaynak bir klonudur.  
+Opensearch-dashboard için de kibana'nın açık kaynak bir klonu olduğunu söyleyebiliriz.    
+##### Bu proje Opensearch ve Opensearch-dashboard'u örneklediğim bir projedir.  
 
 ![](https://github.com/mustafadikyar/opensearch-net/blob/master/opensearch-dashboard.png)
 
